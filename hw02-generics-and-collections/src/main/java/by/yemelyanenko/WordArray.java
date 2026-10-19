@@ -11,7 +11,7 @@ public class WordArray {
     }
 
     public List<String>  findUnique(){
-        Set<String> uniqueWords = new HashSet<>();
+        Set<String> uniqueWords = new LinkedHashSet<>();
         for(String word : words){
             uniqueWords.add(word);
         }

@@ -1,5 +1,6 @@
 package by.yemelyanenko;
 
+import java.util.Arrays;
 import java.util.Objects;
 
 public class ChangeElements<T>{
@@ -24,6 +25,7 @@ public class ChangeElements<T>{
     }
 
     public T[] getArray() {
-        return t;
+        T[] copy = this.t.clone();
+        return copy;
     }
 }
