@@ -4,5 +4,7 @@ plugins {
 
 rootProject.name = "otus-corse-homeworks"
 
+
 include("hw01-gradle")
 include("hw02-generics-and-collections")
+
