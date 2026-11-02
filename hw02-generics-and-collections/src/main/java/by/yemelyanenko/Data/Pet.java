@@ -1,9 +1,11 @@
 package by.yemelyanenko.Data;
 
 public class Pet {
+    public int age;
     private String name;
 
-    public Pet(String name) {
+    public Pet(String name,int x) {
+        this.age = x;
         this.name = name;
     }
 
