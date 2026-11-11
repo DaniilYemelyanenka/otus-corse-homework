@@ -1,0 +1,228 @@
+21:32:53.309 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:32:53.307528200 current idx:0
+21:33:01.427 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:33:01.427277400 current idx:10000000
+21:33:09.651 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:33:09.651278200 current idx:20000000
+21:33:17.866 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:33:17.866299400 current idx:30000000
+21:33:26.080 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:33:26.080832 current idx:40000000
+21:33:34.306 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:33:34.306478900 current idx:50000000
+21:33:42.540 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:33:42.540479 current idx:60000000
+21:33:50.712 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:33:50.712502700 current idx:70000000
+21:33:58.890 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:33:58.890483300 current idx:80000000
+21:34:07.072 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:34:07.072481200 current idx:90000000
+21:34:15.244 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:34:15.244513100 current idx:100000000
+21:34:23.420 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:34:23.420479 current idx:110000000
+21:34:31.693 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:34:31.693502100 current idx:120000000
+21:34:39.902 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:34:39.902380 current idx:130000000
+21:34:48.109 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:34:48.109449100 current idx:140000000
+21:34:56.342 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:34:56.342438700 current idx:150000000
+21:35:04.558 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:35:04.558447200 current idx:160000000
+21:35:12.774 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:35:12.773438700 current idx:170000000
+21:35:20.992 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:35:20.992439200 current idx:180000000
+21:35:29.218 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:35:29.218438600 current idx:190000000
+21:35:37.451 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:35:37.451457600 current idx:200000000
+21:35:45.743 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:35:45.743457200 current idx:210000000
+21:35:54.011 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:35:54.011426100 current idx:220000000
+21:36:02.281 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:36:02.281457 current idx:230000000
+21:36:10.817 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:36:10.817449300 current idx:240000000
+21:36:19.022 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:36:19.022870500 current idx:250000000
+21:36:27.234 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:36:27.234087100 current idx:260000000
+21:36:35.445 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:36:35.445087 current idx:270000000
+21:36:43.662 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:36:43.662094100 current idx:280000000
+21:36:51.888 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:36:51.888095700 current idx:290000000
+21:37:00.098 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:37:00.098738800 current idx:300000000
+21:37:08.378 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:37:08.378710400 current idx:310000000
+21:37:16.606 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:37:16.606215100 current idx:320000000
+21:37:24.810 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:37:24.810186600 current idx:330000000
+21:37:33.020 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:37:33.020721800 current idx:340000000
+21:37:41.276 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:37:41.276751800 current idx:350000000
+21:37:49.875 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:37:49.875279500 current idx:360000000
+21:37:58.223 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:37:58.223346400 current idx:370000000
+21:38:06.524 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:38:06.524333300 current idx:380000000
+21:38:14.983 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:38:14.983397300 current idx:390000000
+21:38:23.196 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:38:23.196397400 current idx:400000000
+21:38:31.433 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:38:31.433150100 current idx:410000000
+21:38:39.916 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:38:39.916899 current idx:420000000
+21:38:48.211 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:38:48.211503 current idx:430000000
+21:38:56.450 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:38:56.449773900 current idx:440000000
+21:39:04.685 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:39:04.685213700 current idx:450000000
+21:39:12.922 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:39:12.922572500 current idx:460000000
+21:39:21.169 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:39:21.169713400 current idx:470000000
+21:39:29.455 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:39:29.455772300 current idx:480000000
+21:39:37.678 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:39:37.678866600 current idx:490000000
+21:39:45.907 [main] INFO by.yemelyanenko.CalcDemo -- PrevValue:499999999
+21:39:45.907 [main] INFO by.yemelyanenko.CalcDemo -- PrevPrevValue:499999998
+21:39:45.907 [main] INFO by.yemelyanenko.CalcDemo -- SumLastThreeValues:1499999994
+21:39:45.907 [main] INFO by.yemelyanenko.CalcDemo -- SomeValue:534155284
+21:39:45.907 [main] INFO by.yemelyanenko.CalcDemo -- Sum:634764662
+21:39:45.907 [main] INFO by.yemelyanenko.CalcDemo -- spend msec:412625, sec:412
+===============================================================================
+21:41:43.575 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:41:43.574410300 current idx:0
+21:41:51.763 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:41:51.763430200 current idx:10000000
+21:41:59.504 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:41:59.504438800 current idx:20000000
+21:42:07.437 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:42:07.437410800 current idx:30000000
+21:42:15.186 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:42:15.186411400 current idx:40000000
+21:42:22.949 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:42:22.949432 current idx:50000000
+21:42:31.167 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:42:31.167411400 current idx:60000000
+21:42:39.371 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:42:39.371432600 current idx:70000000
+21:42:47.568 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:42:47.568431700 current idx:80000000
+21:42:55.774 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:42:55.774431600 current idx:90000000
+21:43:04.002 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:43:04.002439400 current idx:100000000
+21:43:12.269 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:43:12.269410900 current idx:110000000
+21:43:20.502 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:43:20.502439800 current idx:120000000
+21:43:28.776 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:43:28.776439400 current idx:130000000
+21:43:36.976 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:43:36.976438900 current idx:140000000
+21:43:45.160 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:43:45.160438500 current idx:150000000
+21:43:53.377 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:43:53.377432 current idx:160000000
+21:44:01.633 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:44:01.633439200 current idx:170000000
+21:44:09.879 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:44:09.879442400 current idx:180000000
+21:44:18.076 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:44:18.076431400 current idx:190000000
+21:44:26.336 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:44:26.336282900 current idx:200000000
+21:44:34.516 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:44:34.516305400 current idx:210000000
+21:44:42.700 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:44:42.700283300 current idx:220000000
+21:44:50.868 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:44:50.868225100 current idx:230000000
+21:44:59.140 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:44:59.140206100 current idx:240000000
+21:45:07.364 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:45:07.364204700 current idx:250000000
+21:45:15.567 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:45:15.567233800 current idx:260000000
+21:45:23.751 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:45:23.751949200 current idx:270000000
+21:45:31.966 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:45:31.966079 current idx:280000000
+21:45:40.186 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:45:40.186080300 current idx:290000000
+21:45:48.543 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:45:48.543051700 current idx:300000000
+21:45:56.696 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:45:56.696049500 current idx:310000000
+21:46:04.855 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:46:04.855072900 current idx:320000000
+21:46:13.030 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:46:13.030072600 current idx:330000000
+21:46:21.222 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:46:21.222049500 current idx:340000000
+21:46:29.408 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:46:29.407051800 current idx:350000000
+21:46:37.567 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:46:37.567073300 current idx:360000000
+21:46:45.745 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:46:45.745080400 current idx:370000000
+21:46:53.895 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:46:53.895073100 current idx:380000000
+21:47:02.047 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:47:02.047050700 current idx:390000000
+21:47:10.201 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:47:10.201122700 current idx:400000000
+21:47:18.352 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:47:18.352092500 current idx:410000000
+21:47:26.498 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:47:26.498262100 current idx:420000000
+21:47:34.660 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:47:34.660262100 current idx:430000000
+21:47:42.819 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:47:42.819285400 current idx:440000000
+21:47:50.991 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:47:50.991285100 current idx:450000000
+21:47:59.156 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:47:59.156285400 current idx:460000000
+21:48:07.323 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:48:07.323285300 current idx:470000000
+21:48:15.485 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:48:15.485261900 current idx:480000000
+21:48:23.667 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:48:23.667285200 current idx:490000000
+21:48:31.824 [main] INFO by.yemelyanenko.CalcDemo -- PrevValue:499999999
+21:48:31.825 [main] INFO by.yemelyanenko.CalcDemo -- PrevPrevValue:499999998
+21:48:31.825 [main] INFO by.yemelyanenko.CalcDemo -- SumLastThreeValues:1499999994
+21:48:31.825 [main] INFO by.yemelyanenko.CalcDemo -- SomeValue:1886230107
+21:48:31.825 [main] INFO by.yemelyanenko.CalcDemo -- Sum:-1586097246
+21:48:31.825 [main] INFO by.yemelyanenko.CalcDemo -- spend msec:408268, sec:408
+=====================================================================================
+21:51:56.357 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:51:56.355161100 current idx:0
+21:52:04.486 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:52:04.486156600 current idx:10000000
+21:52:12.392 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:52:12.392153800 current idx:20000000
+21:52:20.602 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:52:20.602177400 current idx:30000000
+21:52:29.020 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:52:29.020155700 current idx:40000000
+21:52:37.425 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:52:37.425177100 current idx:50000000
+21:52:45.732 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:52:45.732185500 current idx:60000000
+21:52:54.052 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:52:54.051153800 current idx:70000000
+21:53:02.352 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:53:02.352363100 current idx:80000000
+21:53:10.700 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:53:10.699868500 current idx:90000000
+21:53:19.105 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:53:19.105759300 current idx:100000000
+21:53:27.439 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:53:27.439735900 current idx:110000000
+21:53:35.715 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:53:35.715643200 current idx:120000000
+21:53:44.042 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:53:44.042677600 current idx:130000000
+21:53:52.383 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:53:52.383680100 current idx:140000000
+21:54:00.778 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:54:00.778793400 current idx:150000000
+21:54:09.186 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:54:09.186654100 current idx:160000000
+21:54:17.503 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:54:17.503651800 current idx:170000000
+21:54:25.782 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:54:25.782682300 current idx:180000000
+21:54:34.094 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:54:34.094934900 current idx:190000000
+21:54:42.401 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:54:42.401934200 current idx:200000000
+21:54:50.655 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:54:50.655932 current idx:210000000
+21:54:58.958 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:54:58.958932100 current idx:220000000
+21:55:07.228 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:55:07.228961900 current idx:230000000
+21:55:15.508 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:55:15.508955200 current idx:240000000
+21:55:23.818 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:55:23.818958900 current idx:250000000
+21:55:32.125 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:55:32.125962300 current idx:260000000
+21:55:40.403 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:55:40.403963700 current idx:270000000
+21:55:48.711 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:55:48.711967100 current idx:280000000
+21:55:57.012 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:55:57.012961200 current idx:290000000
+21:56:05.336 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:56:05.336666800 current idx:300000000
+21:56:13.625 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:56:13.625666100 current idx:310000000
+21:56:21.946 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:56:21.946509400 current idx:320000000
+21:56:30.291 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:56:30.291539800 current idx:330000000
+21:56:38.603 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:56:38.602539200 current idx:340000000
+21:56:47.048 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:56:47.048531400 current idx:350000000
+21:56:55.423 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:56:55.423732700 current idx:360000000
+21:57:05.656 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:57:05.656734300 current idx:370000000
+21:57:14.249 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:57:14.249726800 current idx:380000000
+21:57:22.717 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:57:22.717702700 current idx:390000000
+21:57:31.103 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:57:31.103732800 current idx:400000000
+21:57:39.502 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:57:39.502702600 current idx:410000000
+21:57:47.824 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:57:47.824187 current idx:420000000
+21:57:56.321 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:57:56.321215100 current idx:430000000
+21:58:05.922 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:58:05.922026200 current idx:440000000
+21:58:14.631 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:58:14.631054700 current idx:450000000
+21:58:22.922 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:58:22.922056400 current idx:460000000
+21:58:31.221 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:58:31.221055 current idx:470000000
+21:58:39.583 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:58:39.583056300 current idx:480000000
+21:58:47.892 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T21:58:47.892025400 current idx:490000000
+21:58:56.227 [main] INFO by.yemelyanenko.CalcDemo -- PrevValue:499999999
+21:58:56.227 [main] INFO by.yemelyanenko.CalcDemo -- PrevPrevValue:499999998
+21:58:56.227 [main] INFO by.yemelyanenko.CalcDemo -- SumLastThreeValues:1499999994
+21:58:56.227 [main] INFO by.yemelyanenko.CalcDemo -- SomeValue:146585443
+21:58:56.227 [main] INFO by.yemelyanenko.CalcDemo -- Sum:281841743
+21:58:56.227 [main] INFO by.yemelyanenko.CalcDemo -- spend msec:419893, sec:419
+======================================================================================
+> Task :hw04-gc:by.yemelyanenko.CalcDemo.main()
+22:02:31.462 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:02:31.461771700 current idx:0
+22:02:39.983 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:02:39.983017700 current idx:10000000
+22:02:47.730 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:02:47.730956100 current idx:20000000
+22:02:55.339 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:02:55.339932600 current idx:30000000
+22:03:02.967 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:03:02.967956100 current idx:40000000
+22:03:10.600 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:03:10.600955700 current idx:50000000
+22:03:18.225 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:03:18.225956300 current idx:60000000
+22:03:25.834 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:03:25.834962 current idx:70000000
+22:03:33.492 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:03:33.492932600 current idx:80000000
+22:03:41.106 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:03:41.106932600 current idx:90000000
+22:03:48.846 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:03:48.846932800 current idx:100000000
+22:03:56.922 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:03:56.922962100 current idx:110000000
+22:04:05.014 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:04:05.014935300 current idx:120000000
+22:04:13.120 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:04:13.120956200 current idx:130000000
+22:04:21.269 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:04:21.269964400 current idx:140000000
+22:04:29.397 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:04:29.397934900 current idx:150000000
+22:04:37.505 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:04:37.505934800 current idx:160000000
+22:04:45.603 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:04:45.603963500 current idx:170000000
+22:04:53.718 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:04:53.718932600 current idx:180000000
+22:05:01.814 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:05:01.814936400 current idx:190000000
+22:05:10.215 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:05:10.215964900 current idx:200000000
+22:05:18.591 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:05:18.591936200 current idx:210000000
+22:05:26.759 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:05:26.759935200 current idx:220000000
+22:05:34.948 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:05:34.948963100 current idx:230000000
+22:05:43.129 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:05:43.129932700 current idx:240000000
+22:05:51.246 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:05:51.246932700 current idx:250000000
+22:05:59.358 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:05:59.358956300 current idx:260000000
+22:06:07.499 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:06:07.499932700 current idx:270000000
+22:06:15.618 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:06:15.618962600 current idx:280000000
+22:06:23.826 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:06:23.826753900 current idx:290000000
+22:06:32.017 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:06:32.017776700 current idx:300000000
+22:06:40.342 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:06:40.342751600 current idx:310000000
+22:06:48.542 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:06:48.542753900 current idx:320000000
+22:06:56.977 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:06:56.977751500 current idx:330000000
+22:07:05.161 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:07:05.161775200 current idx:340000000
+22:07:13.331 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:07:13.331774900 current idx:350000000
+22:07:21.452 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:07:21.452784400 current idx:360000000
+22:07:29.570 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:07:29.570756100 current idx:370000000
+22:07:37.717 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:07:37.717783700 current idx:380000000
+22:07:45.844 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:07:45.844775400 current idx:390000000
+22:07:53.949 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:07:53.949773800 current idx:400000000
+22:08:02.081 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:08:02.081782300 current idx:410000000
+22:08:10.197 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:08:10.197751500 current idx:420000000
+22:08:18.329 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:08:18.329751700 current idx:430000000
+22:08:26.435 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:08:26.435775400 current idx:440000000
+22:08:34.552 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:08:34.552753800 current idx:450000000
+22:08:42.667 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:08:42.667775100 current idx:460000000
+22:08:50.776 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:08:50.776751400 current idx:470000000
+22:08:58.959 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:08:58.959751600 current idx:480000000
+22:09:07.160 [main] INFO by.yemelyanenko.CalcDemo -- 2026-11-02T22:09:07.160751900 current idx:490000000
+22:09:15.315 [main] INFO by.yemelyanenko.CalcDemo -- PrevValue:499999999
+22:09:15.316 [main] INFO by.yemelyanenko.CalcDemo -- PrevPrevValue:499999998
+22:09:15.316 [main] INFO by.yemelyanenko.CalcDemo -- SumLastThreeValues:1499999994
+22:09:15.316 [main] INFO by.yemelyanenko.CalcDemo -- SomeValue:206452739
+22:09:15.316 [main] INFO by.yemelyanenko.CalcDemo -- Sum:518192420
+22:09:15.316 [main] INFO by.yemelyanenko.CalcDemo -- spend msec:403872, sec:403
